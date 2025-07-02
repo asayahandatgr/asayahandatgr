@@ -23,4 +23,4 @@ Suka ngulik ✨ dan ngoding sambil ngopi ☕
 
 ## 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tegarasayahandafirdaus)
-[![Instagram](https://img.shields.io/badge/@namakamu-E4405F?style=flat&logo=instagram)](https://instagram.com/tegarasayahandafirdaus)
+[![Instagram](https://img.shields.io/badge/@tegarasayahanda-E4405F?style=flat&logo=instagram)](https://instagram.com/tegarasayahanda)
