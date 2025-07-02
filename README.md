@@ -27,26 +27,6 @@ Suka ngulik ✨ dan ngoding sambil ngopi ☕
 
 ## 🧩 Add-ons
 
-### 👀 Visitors Count
-![Visitor Badge](https://komarev.com/ghpvc/?username=asayahandatgr&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=asayahandatgr&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-### 🏆 GitHub Trophies
-[![Tegar's Trophies](https://github-profile-trophy.vercel.app/?username=asayahandatgr&theme=onedark&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📈 GitHub Stats Card
-![Tegar's GitHub stats](https://github-readme-stats.vercel.app/api?username=asayahandatgr&show_icons=true&theme=tokyonight)
-
----
-
-### 📌 Top Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asayahandatgr&layout=compact&theme=tokyonight)
-
----
-
-### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=asayahandatgr&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
 
