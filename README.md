@@ -17,16 +17,10 @@ Suka ngulik ✨ dan ngoding sambil ngopi ☕
 - 🧠 [Rental Mobil](https://github.com/asayahandatgr/rental-mobil) — Sistem Penyewaan Rental Mobil
 
 ## 📊 GitHub Stats
-
-![Princegarz GitHub stats](https://github-readme-stats.vercel.app/api?username=asayahandatgr&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asayahandatgr&layout=compact&theme=tokyonight)
 
 ## 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tegarasayahandafirdaus)
 [![Instagram](https://img.shields.io/badge/@tegarasayahanda-E4405F?style=flat&logo=instagram)](https://instagram.com/tegarasayahanda)
-
-## 🧩 Add-ons
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=asayahandatgr&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
