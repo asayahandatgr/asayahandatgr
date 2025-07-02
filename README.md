@@ -11,13 +11,8 @@ Suka ngulik ✨ dan ngoding sambil ngopi ☕
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
 
-## 📂 Projects
-- 🎓 [Mental Health Awareness Web](https://github.com/asayahandatgr/mindspace-web) — Platform edukasi dan dukungan kesehatan mental mahasiswa
-- 📚 [Perpustakaan Laravel App](https://github.com/asayahandatgr/jarvis5-perpustakaan) — Sistem peminjaman buku digital
-- 🧠 [Rental Mobil](https://github.com/asayahandatgr/rental-mobil) — Sistem Penyewaan Rental Mobil
-
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asayahandatgr&layout=compact&theme=tokyonight)
+![Tegar's GitHub stats](https://github-readme-stats.vercel.app/api?username=asayahandatgr&show_icons=true&theme=tokyonight)
 
 ## 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tegarasayahandafirdaus)
