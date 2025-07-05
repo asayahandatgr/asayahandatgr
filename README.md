@@ -2,7 +2,7 @@
 
 I'm a passionate **Fullstack Web Developer** 🚀  
 Lagi fokus belajar **React.js, Laravel, dan UI/UX Design**  
-Suka ngulik ✨ dan ngoding sambil ngopi ☕  
+Suka ngulik dan ngoding sambil ngopi ☕  
 
 ## 💻 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
